@@ -1,0 +1,5 @@
+1) movie: Мистер х
+2) serial: Maksi
+3) food: Cucumbers
+4) season: summer
+5) country: Italy
