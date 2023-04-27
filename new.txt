@@ -1,0 +1,4 @@
+1) person: Hanna Keldanovich
+2) age: 25
+3) animals: 0
+4) salary: 1000
